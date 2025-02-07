@@ -48,8 +48,12 @@ Recursos CSS presentes no projeto:
 - Transições e animações
 - Tratamento de campos inválidos no formulário
 
+Como parte do desafio final da Trilha de CSS, o desenvolvedor deve reproduzir [esse projeto](https://micheleambrosio.github.io/hbomax/), sem realizar uma consulta do código final do site, presente na branch `master` deste repositório.
+
 
 <h2 id="demo">🌈 Demonstração</h2>
+
+<h2 id="challenges">🏆 Desafio</h2>
 
 Você pode acessar ao resultado final do projeto [clicando aqui](https://micheleambrosio.github.io/hbomax/).
 ---
