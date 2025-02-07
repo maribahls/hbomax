@@ -50,5 +50,5 @@ Recursos CSS presentes no projeto:
 
 <h2 id="demo">🌈 Demonstração</h2>
 
-<p> Você pode acessar ao resultado final do projeto [Clicando aqui](https://maribahls.github.io/hbomax/). </p>
+Você pode acessar ao resultado final do projeto [Clicando aqui](https://maribahls.github.io/hbomax/).
 ---
