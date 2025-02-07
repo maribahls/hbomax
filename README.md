@@ -143,4 +143,4 @@ Você pode acessar ao resultado final do projeto [clicando aqui](https://michele
 <p>
 
 ---
-⌨️ com ❤️ por [Michele Ambrosio](https://github.com/micheleambrosio) 😊
+⌨️ com ❤️ por [Michele Ambrosio](https://maribahls.github.io/hbomax/) 😊
