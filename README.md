@@ -50,5 +50,6 @@ Recursos CSS presentes no projeto:
 
 <h2 id="demo">🌈 Demonstração</h2>
 
-Você pode acessar ao resultado final do projeto [Clicando aqui](https://maribahls.github.io/hbomax/).
+<p style="font-size:16px;">Você pode acessar o resultado final do projeto <a href="https://maribahls.github.io/hbomax/" target="_blank">Clicando aqui</a>.</p>
+
 ---
